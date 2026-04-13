@@ -18,7 +18,7 @@ Input (784)  →  Hidden Layer (64, tanh)  →  Output (10, softmax)
 
 ## Dataset
 
-- **Source:** MNIST (loaded via Keras)
+- **Source:** MNIST dataset in keras
 - **Train:** 60,000 images | **Test:** 10,000 images
 - **Preprocessing:** pixel values normalized to [0, 1]; labels one-hot encoded
 
