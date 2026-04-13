@@ -46,7 +46,3 @@ Input (784)  →  Hidden Layer (64, tanh)  →  Output (10, softmax)
 | File | Description |
 |------|-------------|
 | `Ananta_Thapaliya_Project2_Part2_Two_Layer_Neural_Network_for_MNIST_Dataset.ipynb` | Full notebook with implementation, training, and analysis |
-
-## Context
-
-This is Part 2 of Project 2 from a graduate Deep Learning course (Fall 2020). Part 1 used 10 separate binary logistic regression classifiers (one-vs-rest); this part replaces them with a single unified neural network trained end-to-end with multi-class cross-entropy.
